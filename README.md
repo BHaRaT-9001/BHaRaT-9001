@@ -87,7 +87,7 @@
 ### `$ ./run_game.sh --name=snake --fuel=commits`
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/BHaRaT-9001/BHaRaT-9001/refs/heads/output/github-contribution-grid-snake-dark.svg)" alt="snake eating contribution graph" />
+  <img src="https://raw.githubusercontent.com/BHaRaT-9001/BHaRaT-9001/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="snake eating contribution graph" />
 </p>
 
 > The snake above eats through my real contribution graph — every green square is a commit. 🐍
